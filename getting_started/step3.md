@@ -33,7 +33,7 @@ rust code need to compile to run on machine so for that run
 
 to test 
 
-`main`{{execute}}
+`./main`{{execute}}
 
 Congrats ! now you can install rust toolchain an create a binary
 rust program.
