@@ -10,7 +10,7 @@ in this projects directory we create a directory named hello_world
 
 now in this project your first rust file !
 
-`touch $HOME/projects/hello_world/main.rs`{{execute}}
+`touch $HOME/projects/hello_world/main.rs && cd $HOME/projects/hello_world/`{{execute}}
 
 after that in IDE you can open this file *root/projects/hello_world/main.rs*
 
@@ -29,11 +29,11 @@ we explain this code
 
 rust code need to compile to run on machine so for that run 
 
-`rustc $HOME/projects/hello_world/main.rs`{{execute}}
+`rustc main.rs`{{execute}}
 
 to test 
 
-`$HOME/projects/hello_world/main`{{execute}}
+`main`{{execute}}
 
 Congrats ! now you can install rust toolchain an create a binary
 rust program.

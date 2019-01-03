@@ -13,6 +13,6 @@ In this first scenrio we will install and use for the first time toolchain for r
 * Install rust toolchain
 * update / uninstall rust
 * hello world with rustc
-* hello world with cargo
+
 
 Have fun !
