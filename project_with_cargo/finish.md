@@ -1,5 +1,4 @@
 #END
 
-In this part we learned how to install and uninstall rust toolchain
-in next chapter we will learn use toolchain of rust and organisation
-in rust project.  
+Nice ! now you understand cargo and workflow about building and *extern crate*.
+In next chapter we will begin to talk about langage.
